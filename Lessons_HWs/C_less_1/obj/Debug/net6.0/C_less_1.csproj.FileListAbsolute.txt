@@ -1,0 +1,15 @@
+/Users/ssdorohov/Desktop/Untitled_Sem_1/C_less_1/bin/Debug/net6.0/C_less_1
+/Users/ssdorohov/Desktop/Untitled_Sem_1/C_less_1/bin/Debug/net6.0/C_less_1.deps.json
+/Users/ssdorohov/Desktop/Untitled_Sem_1/C_less_1/bin/Debug/net6.0/C_less_1.runtimeconfig.json
+/Users/ssdorohov/Desktop/Untitled_Sem_1/C_less_1/bin/Debug/net6.0/C_less_1.dll
+/Users/ssdorohov/Desktop/Untitled_Sem_1/C_less_1/bin/Debug/net6.0/C_less_1.pdb
+/Users/ssdorohov/Desktop/Untitled_Sem_1/C_less_1/obj/Debug/net6.0/C_less_1.csproj.AssemblyReference.cache
+/Users/ssdorohov/Desktop/Untitled_Sem_1/C_less_1/obj/Debug/net6.0/C_less_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssdorohov/Desktop/Untitled_Sem_1/C_less_1/obj/Debug/net6.0/C_less_1.AssemblyInfoInputs.cache
+/Users/ssdorohov/Desktop/Untitled_Sem_1/C_less_1/obj/Debug/net6.0/C_less_1.AssemblyInfo.cs
+/Users/ssdorohov/Desktop/Untitled_Sem_1/C_less_1/obj/Debug/net6.0/C_less_1.csproj.CoreCompileInputs.cache
+/Users/ssdorohov/Desktop/Untitled_Sem_1/C_less_1/obj/Debug/net6.0/C_less_1.dll
+/Users/ssdorohov/Desktop/Untitled_Sem_1/C_less_1/obj/Debug/net6.0/refint/C_less_1.dll
+/Users/ssdorohov/Desktop/Untitled_Sem_1/C_less_1/obj/Debug/net6.0/C_less_1.pdb
+/Users/ssdorohov/Desktop/Untitled_Sem_1/C_less_1/obj/Debug/net6.0/C_less_1.genruntimeconfig.cache
+/Users/ssdorohov/Desktop/Untitled_Sem_1/C_less_1/obj/Debug/net6.0/ref/C_less_1.dll

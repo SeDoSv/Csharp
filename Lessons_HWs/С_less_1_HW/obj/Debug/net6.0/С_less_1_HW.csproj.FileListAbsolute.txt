@@ -1,0 +1,15 @@
+/Users/ssdorohov/Desktop/Untitled_Sem_1/С_less_1_HW/bin/Debug/net6.0/С_less_1_HW
+/Users/ssdorohov/Desktop/Untitled_Sem_1/С_less_1_HW/bin/Debug/net6.0/С_less_1_HW.deps.json
+/Users/ssdorohov/Desktop/Untitled_Sem_1/С_less_1_HW/bin/Debug/net6.0/С_less_1_HW.runtimeconfig.json
+/Users/ssdorohov/Desktop/Untitled_Sem_1/С_less_1_HW/bin/Debug/net6.0/С_less_1_HW.dll
+/Users/ssdorohov/Desktop/Untitled_Sem_1/С_less_1_HW/bin/Debug/net6.0/С_less_1_HW.pdb
+/Users/ssdorohov/Desktop/Untitled_Sem_1/С_less_1_HW/obj/Debug/net6.0/С_less_1_HW.csproj.AssemblyReference.cache
+/Users/ssdorohov/Desktop/Untitled_Sem_1/С_less_1_HW/obj/Debug/net6.0/С_less_1_HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssdorohov/Desktop/Untitled_Sem_1/С_less_1_HW/obj/Debug/net6.0/С_less_1_HW.AssemblyInfoInputs.cache
+/Users/ssdorohov/Desktop/Untitled_Sem_1/С_less_1_HW/obj/Debug/net6.0/С_less_1_HW.AssemblyInfo.cs
+/Users/ssdorohov/Desktop/Untitled_Sem_1/С_less_1_HW/obj/Debug/net6.0/С_less_1_HW.csproj.CoreCompileInputs.cache
+/Users/ssdorohov/Desktop/Untitled_Sem_1/С_less_1_HW/obj/Debug/net6.0/С_less_1_HW.dll
+/Users/ssdorohov/Desktop/Untitled_Sem_1/С_less_1_HW/obj/Debug/net6.0/refint/С_less_1_HW.dll
+/Users/ssdorohov/Desktop/Untitled_Sem_1/С_less_1_HW/obj/Debug/net6.0/С_less_1_HW.pdb
+/Users/ssdorohov/Desktop/Untitled_Sem_1/С_less_1_HW/obj/Debug/net6.0/С_less_1_HW.genruntimeconfig.cache
+/Users/ssdorohov/Desktop/Untitled_Sem_1/С_less_1_HW/obj/Debug/net6.0/ref/С_less_1_HW.dll
