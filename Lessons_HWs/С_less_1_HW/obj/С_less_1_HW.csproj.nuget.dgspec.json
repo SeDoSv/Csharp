@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ssdorohov/Desktop/Untitled_Sem_1/С_less_1_HW/С_less_1_HW.csproj": {}
+    "/Users/ssdorohov/Desktop/Csharp/Lessons_HWs/С_less_1_HW/С_less_1_HW.csproj": {}
   },
   "projects": {
-    "/Users/ssdorohov/Desktop/Untitled_Sem_1/С_less_1_HW/С_less_1_HW.csproj": {
+    "/Users/ssdorohov/Desktop/Csharp/Lessons_HWs/С_less_1_HW/С_less_1_HW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ssdorohov/Desktop/Untitled_Sem_1/С_less_1_HW/С_less_1_HW.csproj",
+        "projectUniqueName": "/Users/ssdorohov/Desktop/Csharp/Lessons_HWs/С_less_1_HW/С_less_1_HW.csproj",
         "projectName": "С_less_1_HW",
-        "projectPath": "/Users/ssdorohov/Desktop/Untitled_Sem_1/С_less_1_HW/С_less_1_HW.csproj",
+        "projectPath": "/Users/ssdorohov/Desktop/Csharp/Lessons_HWs/С_less_1_HW/С_less_1_HW.csproj",
         "packagesPath": "/Users/ssdorohov/.nuget/packages/",
-        "outputPath": "/Users/ssdorohov/Desktop/Untitled_Sem_1/С_less_1_HW/obj/",
+        "outputPath": "/Users/ssdorohov/Desktop/Csharp/Lessons_HWs/С_less_1_HW/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ssdorohov/.nuget/NuGet/NuGet.Config"

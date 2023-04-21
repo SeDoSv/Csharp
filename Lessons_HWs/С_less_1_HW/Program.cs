@@ -74,11 +74,6 @@
 
 Console.Write("Введите целое положительное число, отличное от нуля: ");
 int num = Convert.ToInt32(Console.ReadLine());
-// if (num == 0)
-// {
-//     Console.Write("Не надо ноль... Повторите, пожалуйста: ");
-//     Int32.TryParse(Console.ReadLine(), out num);
-// }
 do
 {
     if (num <= 0)
